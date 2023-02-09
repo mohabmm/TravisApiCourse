@@ -1,0 +1,33 @@
+2023-02-08 15:57:55.111 +02:00 [INF] Now listening on: https://localhost:5341
+2023-02-08 15:57:55.126 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 15:57:55.126 +02:00 [INF] Hosting environment: Development
+2023-02-08 15:57:55.126 +02:00 [INF] Content root path: /Users/mohabmagdy/Projects/TravusCourse/TravusCourse
+2023-02-08 16:15:09.255 +02:00 [INF] Now listening on: https://localhost:5341
+2023-02-08 16:15:09.278 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 16:15:09.278 +02:00 [INF] Hosting environment: Development
+2023-02-08 16:15:09.278 +02:00 [INF] Content root path: /Users/mohabmagdy/Projects/TravusCourse/TravusCourse
+2023-02-08 16:24:31.719 +02:00 [INF] Now listening on: https://localhost:5341
+2023-02-08 16:24:31.734 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 16:24:31.734 +02:00 [INF] Hosting environment: Development
+2023-02-08 16:24:31.734 +02:00 [INF] Content root path: /Users/mohabmagdy/Projects/TravusCourse/TravusCourse
+2023-02-08 16:25:22.404 +02:00 [INF] Now listening on: https://localhost:5341
+2023-02-08 16:25:22.420 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 16:25:22.420 +02:00 [INF] Hosting environment: Development
+2023-02-08 16:25:22.420 +02:00 [INF] Content root path: /Users/mohabmagdy/Projects/TravusCourse/TravusCourse
+2023-02-08 16:27:36.744 +02:00 [INF] Now listening on: https://localhost:5341
+2023-02-08 16:27:36.758 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 16:27:36.758 +02:00 [INF] Hosting environment: Development
+2023-02-08 16:27:36.758 +02:00 [INF] Content root path: /Users/mohabmagdy/Projects/TravusCourse/TravusCourse
+2023-02-08 16:34:25.840 +02:00 [INF] Now listening on: https://localhost:5341
+2023-02-08 16:34:25.854 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 16:34:25.854 +02:00 [INF] Hosting environment: Development
+2023-02-08 16:34:25.854 +02:00 [INF] Content root path: /Users/mohabmagdy/Projects/TravusCourse/TravusCourse
+2023-02-08 16:45:36.036 +02:00 [INF] Now listening on: https://localhost:5342
+2023-02-08 16:45:36.051 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 16:45:36.051 +02:00 [INF] Hosting environment: Development
+2023-02-08 16:45:36.051 +02:00 [INF] Content root path: /Users/mohabmagdy/Projects/TravusCourse/TravusCourse
+2023-02-08 16:45:43.131 +02:00 [INF] HTTP GET /WeatherForecast responded 200 in 29.4419 ms
+2023-02-08 16:48:53.634 +02:00 [INF] Now listening on: https://localhost:5342
+2023-02-08 16:48:53.650 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-02-08 16:48:53.650 +02:00 [INF] Hosting environment: Development
+2023-02-08 16:48:53.650 +02:00 [INF] Content root path: /Users/mohabmagdy/Projects/TravusCourse/TravusCourse
