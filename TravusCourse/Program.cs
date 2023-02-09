@@ -1,11 +1,6 @@
 ﻿using Serilog;
-<<<<<<< HEAD
 
 var builder = WebApplication.CreateBuilder(args);
-var builders = WebApplication.CreateBuilder(args);
-=======
-var builder = WebApplication.CreateBuilder(args);
->>>>>>> master
 
 // Add services to the container.
 
@@ -36,7 +31,4 @@ app.MapControllers();
 
 app.Run();
 
-<<<<<<< HEAD
-// test jhjhj
-=======
->>>>>>> master
+
